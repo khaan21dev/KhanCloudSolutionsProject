@@ -102,17 +102,6 @@ Successfully tested the full chain:
 
 ---
 
-## Repository Structure
-
-```
-KhanCloudSolutionsProject/
-├── bicep-templates/          # Infrastructure as Code — Bicep templates per resource group
-├── screenshots/              # Architecture screenshots and network topology diagrams
-└── README.md                 # This file
-```
-
----
-
 ## Technologies Used
 - Microsoft Azure
 - Azure CLI
