@@ -110,7 +110,3 @@ Successfully tested the full chain:
 - Azure Entra ID
 - Git / GitHub
 
----
-
-## Author
-https://github.com/khaan21dev
